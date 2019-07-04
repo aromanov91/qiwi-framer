@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^1.0.0-beta",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "22631565-32ef-4596-9e69-9bb492604d53"
+	},
+	"author": "Jordan Dobson",
+	"dependencies": {
+		"@framer/benjamin.properties": "^1.5.0",
+		"@framer/edoardo.web-ui-kit": "^1.1.0",
+		"@framer/framer.examples": "^1.7.0",
+		"@framer/google.material-design": "^1.0.0",
+		"@framer/jake_davies.shmeasure": "^1.2.0"
+	}
+}
